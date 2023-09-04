@@ -68,4 +68,4 @@ console.log(name1 === name2); // false
 
 console.log(name1 === name2.toLowerCase()); //true ma non abbiamo modificato il valore di name2
 
-console.log(name1 === name2); //false rifacendo il console.log con (name1 === name2) ci ridarà esito false in quanto non abbiamo moficiato il valore di name2
+console.log(name1 === name2); //false rifacendo il console.log con (name1 === name2) ci ridarà esito false in quanto non abbiamo modificato il valore di name2
